@@ -534,6 +534,7 @@
   \color{gray}\vhrulefill{0.9pt}
 }
 
+
 % Define a subsection for CV
 % Usage: \cvsubsection{<subsection-title>}
 \newcommand{\cvsubsection}[1]{%
@@ -542,6 +543,7 @@
   \subsectionstyle{#1}
   \phantomsection
 }
+
 
 % Define a paragraph for CV
 \newenvironment{cvparagraph}{%
